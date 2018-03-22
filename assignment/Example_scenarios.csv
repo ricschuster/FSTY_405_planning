@@ -1,0 +1,7 @@
+scenario,cost,protected,maxRoadDns,minPropSz,maxAgrDns,OF,SAV,BETA,WET,SHR,HUM,neg_HUM,StC,SeqC,EO,SEI_CB,SEI_HT,SEI_OF,SEI_RI,SEI_SG,SEI_SV,SEI_WD,SEI_WN,Nat_Pl_Rch,FISH,HERP,CButCp,CpePrRs,CfLup,DsPrRs,FthlSdg,FrstSnail,MedFoam,Meconella,Microseris,MMurrlet,PopFlower,svMoth,Area
+BETA_17L,dollar,locked,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BETA_30L,dollar,locked,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BETA_60L,dollar,locked,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BETA_17A,dollar,available,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BETA_30A,dollar,available,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BETA_60A,dollar,available,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
