@@ -14,7 +14,7 @@ Once acclimatized, we will form small teams to design, carryout and report on ne
 
 **Schedule**
 
-*	Introduction to Systematic Conservation Planning - goals, indicators and cost layers. 
+*	Introduction to the Coastal Douglas-fir zone. 
 *	Species Distribution Models – approaches and cautionary notes 
 *	Economic, Ecosystem Service and Regulatory Targets. 
 *	Algorithms and Approaches
